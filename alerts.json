@@ -1,12 +1,12 @@
 {
-	nome: 'Luriana de Assis',
-	mensagem: 'Ola, tenho interesse no apartamento no St. Oeste, 2 Quartos, 2 Vagas, Residencial Mariage.',
-	telefone: '62123456789',
-  email: 'teste@teste.com.br',
+	"nome": "Luriana de Assis",
+	"mensagem": "Ola, tenho interesse no apartamento no St. Oeste, 2 Quartos, 2 Vagas, Residencial Mariage.",
+	"telefone": "62123456789",
+	"email": "teste@teste.com.br",
 },
 {
-	nome: 'Manoel Camargo disse:',
-	mensagem: 'Ola, tenho interesse no apartamento no St. Oeste, 2 Quartos, 2 Vagas, Residencial Mariage.',
-	telefone: '62987654321',
-  email: 'teste@teste.com.br',
+	"nome": "Manoel Camargo disse:",
+	"mensagem": "Ola, tenho interesse no apartamento no St. Oeste, 2 Quartos, 2 Vagas, Residencial Mariage.",
+	"telefone": "62987654321",
+	"email": "teste@teste.com.br",
 } 
