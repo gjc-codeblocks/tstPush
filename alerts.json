@@ -1,6 +1,8 @@
-{
-  "name": "Lauriane de Assis",
-  "mensagem": "Ola, tenho interesse no apartamento no St. Oeste, 2 Quartos, 2 Vagas, Residencial Mariage.",
-  "telefone": "62123456789",
-  "email": "teste@teste.com.br"
-}
+[
+  {
+    "name": "Lauriane de Assis",
+    "mensagem": "Ola, tenho interesse no apartamento no St. Oeste, 2 Quartos, 2 Vagas, Residencial Mariage.",
+    "telefone": "62123456789",
+    "email": "teste@teste.com.br"
+  }
+]
